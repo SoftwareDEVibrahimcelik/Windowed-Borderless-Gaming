@@ -1,0 +1,12 @@
+c:\users\resul çelik\documents\visual studio 2012\Projects\ibrahimcelik - borderless\bin\Debug\ibrahimcelik - borderless.exe.config
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\bin\Debug\ibrahimcelik - borderless.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\bin\Debug\ibrahimcelik - borderless.pdb
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\bin\Debug\ibrahimcelik - borderless.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik - borderless.vbproj.AssemblyReference.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik___borderless.ibrahimcelik.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik___borderless.Resources.resources
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik - borderless.vbproj.GenerateResource.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik - borderless.vbproj.CoreCompileInputs.cache
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik - borderless.exe
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik - borderless.xml
+C:\Users\Resul Çelik\Documents\Visual Studio 2012\Projects\ibrahimcelik - borderless\obj\Debug\ibrahimcelik - borderless.pdb

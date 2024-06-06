@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Windowed Borderless Gaming - ibrahimcelik", "Windowed Borderless Gaming - ibrahimcelik.vbproj", "{403FF351-A308-4B2C-994E-E9AB5ED7F19F}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "devibrahimcelik", "..\devibrahimcelik\devibrahimcelik.vdproj", "{25BE8E39-E5AF-4B4F-A222-22589D37CB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Debug|x86.ActiveCfg = Release|x86
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Debug|x86.Build.0 = Release|x86
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Release|x86.ActiveCfg = Release|x86
+		{403FF351-A308-4B2C-994E-E9AB5ED7F19F}.Release|x86.Build.0 = Release|x86
+		{25BE8E39-E5AF-4B4F-A222-22589D37CB96}.Debug|Any CPU.ActiveCfg = Debug
+		{25BE8E39-E5AF-4B4F-A222-22589D37CB96}.Debug|x86.ActiveCfg = Debug
+		{25BE8E39-E5AF-4B4F-A222-22589D37CB96}.Release|Any CPU.ActiveCfg = Release
+		{25BE8E39-E5AF-4B4F-A222-22589D37CB96}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
